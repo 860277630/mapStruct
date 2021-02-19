@@ -1,0 +1,13 @@
+com\example\demo\vo\CarVO.class
+com\example\demo\convert\CarConvertImpl.class
+com\example\demo\service\UserService.class
+com\example\demo\beans\DriverDTO.class
+com\example\demo\model\User.class
+com\example\demo\beans\PartDTO.class
+com\example\demo\vo\partVO.class
+com\example\demo\beans\CarDTO.class
+com\example\demo\vo\DriverVO.class
+com\example\demo\dao\UserMapper.class
+com\example\demo\controller\UserController.class
+com\example\demo\convert\CarConvert.class
+com\example\demo\MapStructApplication.class
